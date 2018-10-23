@@ -1,4 +1,4 @@
-# itsmebhavin.github.io" 
+# [itsmebhavin.github.io](https://itsmebhavin.github.io)
 
 # Web Tech News (WTN)
 - [Angular: NGRX a clean and clear Introduction – Frontend Fun – Medium](https://medium.com/frontend-fun/angular-ngrx-a-clean-and-clear-introduction-4ed61c89c1fc) `The objective of this article is to provide a clean and clear introduction
